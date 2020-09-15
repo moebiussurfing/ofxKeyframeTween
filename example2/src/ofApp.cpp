@@ -29,7 +29,6 @@ void ofApp::setup(){
 //    color_.addKeyFrame(5, ofColor::white, OF_EASE_CUBIC_IN);
 
 
-
 ////    camera.setAspectRatio(16/9.f);
 ////    camera.setLensOffset(ofVec2f(0.5f,0));
 //    lookat.set(0,-100,0);
